@@ -1,0 +1,13 @@
+langchain
+ipykernel
+langchain_community
+pypdf
+langchain-text-splitters
+faiss_cpu
+dotenv
+ipynb
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
